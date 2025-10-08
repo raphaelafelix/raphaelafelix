@@ -1,4 +1,4 @@
-# Oi! Meu nome é Raphaela :D
+# Oi! Meu nome é Raphaela
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub** e **programação**. Tenho um interesse especial em Front-End.
 
