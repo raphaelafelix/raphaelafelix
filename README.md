@@ -31,17 +31,16 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| Meu Primeiro Site | [🔗 Ver online]([https://seu-link.com](https://github.com/raphaelafelix/-wfelixaraujo)) | HTML / CSS  |
-| Minhas Músicas Favoritas | [🔗 Ver online]([https://seu-link.com](https://github.com/raphaelafelix/DesafioMusica)) | HTML |
+| Meu Primeiro Site | [🔗 Ver online]([(https://github.com/raphaelafelix/-wfelixaraujo)]) | HTML / CSS  |
+| Minhas Músicas Favoritas | [🔗 Ver online]([(https://github.com/raphaelafelix/DesafioMusica)]) | HTML |
 
 
 ---
 
 ## Sobre Mim
 
-- 🎓 Atualmente estudo no SESI
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é dominar todas a linguagens de programação
+- 🎓 Atualmente curso Desenvolvimento de Sistemas no SENAI
+- 🎯 Pretendo ser uma Pogramadora Front-End.
 - 📚 Gosto de aprender sobre programação e cultura.
 - 😉 Stay Weird :)
 ---
