@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou [Raphaela]
+# 👋 Olá! Eu sou Raphaela
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End.
 
 ---
 
@@ -42,12 +42,11 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
+- 🎓 Atualmente estudo no SESI
 - 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
-
+- 🎯 Meu objetivo é dominar todas a linguagens de programação
+- 📚 Gosto de aprender sobre programação e cultura.
+- Stay Weird :)
 ---
 
 ## 📫 Como me encontrar
