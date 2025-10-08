@@ -32,7 +32,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | Meu Primeiro Site | [🔗 Ver online](https://raphaelafelix.github.io/-wfelixaraujo/) | HTML / CSS  |
-| Minhas Músicas Favoritas | [🔗 Ver online](https://github.com/raphaelafelix/DesafioMusica)](https://raphaelafelix.github.io/DesafioMusica/) | HTML |
+| Minhas Músicas Favoritas | [🔗 Ver online](https://raphaelafelix.github.io/DesafioMusica/) | HTML |
 
 
 ---
